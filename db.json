@@ -1,0 +1,108 @@
+
+{
+  "posts": [
+    { 
+      "id": 1, 
+      "nama": "John Doe", 
+      "alamat": "Street 2A Washington", 
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 2, 
+      "nama": "Lorem Ipsum",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 3,
+      "nama": "Alber Einst",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333"  
+    },
+    { 
+      "id": 4, 
+      "nama": "George Skun",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 5, 
+      "nama": "Dom Alex",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 6, 
+      "nama": "Christina Serf",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 7, 
+      "nama": "Michael Je",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 8, 
+      "nama": "Mundif Elle",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 9, 
+      "nama": "August Oct",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 10, 
+      "nama": "August Oct",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 11, 
+      "nama": "Linkin Park",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 12, 
+      "nama": "Queena Loot",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 13, 
+      "nama": "Phip Philipe",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 14, 
+      "nama": "Eden Hazard",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 15, 
+      "nama": "Lionel Messi",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    },
+    { 
+      "id": 16, 
+      "nama": "Chrisiano Ronaldo",
+      "alamat": "Street 2A Washington",
+      "telp": "0312838333" 
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "alirodhi123"
+  }
+}
